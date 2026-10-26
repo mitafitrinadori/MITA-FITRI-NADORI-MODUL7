@@ -1,0 +1,114 @@
+1792997488: mosquitto version 2.1.2 starting
+1792997488: Config loaded from /mosquitto/config/mosquitto.conf.
+1792997488: Bridge support available.
+1792997488: Persistence support available.
+1792997488: TLS support available.
+1792997488: TLS-PSK support available.
+1792997488: Websockets support available.
+1792997488: Opening ipv4 listen socket on port 1883.
+1792997488: Opening ipv6 listen socket on port 1883.
+1792997488: Opening ipv4 listen socket on port 9001.
+1792997488: Opening ipv6 listen socket on port 9001.
+1792997488: mosquitto version 2.1.2 running
+1792998115: New connection from 172.19.0.1:35834 on port 1883.
+1792998115: New client connected from 172.19.0.1:35834 as mqtt-explorer-904183a8 (p4, c1, k60).
+1792998504: Client mqtt-explorer-904183a8 [172.19.0.1:35834] disconnected.
+1792998546: mosquitto version 2.1.2 terminating
+1792998546: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792998555: mosquitto version 2.1.2 starting
+1792998555: Config loaded from /mosquitto/config/mosquitto.conf.
+1792998555: Bridge support available.
+1792998555: Persistence support available.
+1792998555: TLS support available.
+1792998555: TLS-PSK support available.
+1792998555: Websockets support available.
+1792998555: Opening ipv4 listen socket on port 1883.
+1792998555: Opening ipv6 listen socket on port 1883.
+1792998555: Opening ipv4 listen socket on port 9001.
+1792998555: Opening ipv6 listen socket on port 9001.
+1792998555: mosquitto version 2.1.2 running
+1792999116: New connection from 172.19.0.1:49122 on port 1883.
+1792999116: New client connected from 172.19.0.1:49122 as mqtt-explorer-904183a8 (p4, c1, k60).
+1792999185: New connection from 172.19.0.1:54228 on port 1883.
+1792999185: New client connected from 172.19.0.1:54228 as ESP8266_Local_Node01 (p4, c1, k15).
+1792999263: Client ESP8266_Local_Node01 [172.19.0.1:54228] disconnected: exceeded timeout.
+1792999266: New connection from 172.19.0.1:42884 on port 1883.
+1792999266: New client connected from 172.19.0.1:42884 as ESP8266_Local_Node01 (p4, c1, k15).
+1792999842: New connection from 172.19.0.1:36078 on port 1883.
+1792999842: Client ESP8266_Local_Node01 [172.19.0.1:42884] disconnected: session taken over.
+1792999842: New client connected from 172.19.0.1:36078 as ESP8266_Local_Node01 (p4, c1, k15).
+1793000355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793001062: New connection from 172.19.0.3:39872 on port 1883.
+1793001062: New client connected from 172.19.0.3:39872 as nodered9fb650e806549904 (p4, c1, k60).
+1793002030: Client nodered9fb650e806549904 [172.19.0.3:39872] disconnected.
+1793002031: New connection from 172.19.0.3:43322 on port 1883.
+1793002031: New client connected from 172.19.0.3:43322 as nodered92a178e1b5da8386 (p4, c1, k60).
+1793002156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793003957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793004099: Client nodered92a178e1b5da8386 [172.19.0.3:43322] disconnected.
+1793004099: New connection from 172.19.0.3:59048 on port 1883.
+1793004099: New client connected from 172.19.0.3:59048 as nodered01695c0ee01c3bae (p4, c1, k60).
+1793004850: mosquitto version 2.1.2 terminating
+1793004850: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793004851: mosquitto version 2.1.2 starting
+1793004851: Config loaded from /mosquitto/config/mosquitto.conf.
+1793004851: Bridge support available.
+1793004851: Persistence support available.
+1793004851: TLS support available.
+1793004851: TLS-PSK support available.
+1793004851: Websockets support available.
+1793004851: Opening ipv4 listen socket on port 1883.
+1793004851: Opening ipv6 listen socket on port 1883.
+1793004851: Opening ipv4 listen socket on port 9001.
+1793004851: Opening ipv6 listen socket on port 9001.
+1793004851: mosquitto version 2.1.2 running
+1793004851: New connection from 172.19.0.1:49132 on port 1883.
+1793004851: New client connected from 172.19.0.1:49132 as mqtt-explorer-904183a8 (p4, c1, k60).
+1793004865: New connection from 172.19.0.3:53930 on port 1883.
+1793004865: New client connected from 172.19.0.3:53930 as nodered01695c0ee01c3bae (p4, c1, k60).
+1793004869: New connection from 172.19.0.1:33068 on port 1883.
+1793004869: New client connected from 172.19.0.1:33068 as ESP8266_Local_Node01 (p4, c1, k15).
+1793006403: Client ESP8266_Local_Node01 [172.19.0.1:33068] disconnected: exceeded timeout.
+1793006409: New connection from 172.19.0.1:38230 on port 1883.
+1793006409: New client connected from 172.19.0.1:38230 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793006464: New connection from 172.19.0.1:44656 on port 1883.
+1793006464: Client ESP8266_Local_Node01 [172.19.0.1:38230] disconnected: session taken over.
+1793006464: New client connected from 172.19.0.1:44656 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793006471: New connection from 172.19.0.1:34356 on port 1883.
+1793006471: Client ESP8266_Local_Node01 [172.19.0.1:44656] disconnected: session taken over.
+1793006471: New client connected from 172.19.0.1:34356 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793006652: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793006951: Client nodered01695c0ee01c3bae [172.19.0.3:53930] disconnected.
+1793006951: New connection from 172.19.0.3:49152 on port 1883.
+1793006951: New client connected from 172.19.0.3:49152 as noderedb92d97a57eb4eae4 (p4, c1, k60).
+1793007127: mosquitto version 2.1.2 terminating
+1793007127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793007128: mosquitto version 2.1.2 starting
+1793007128: Config loaded from /mosquitto/config/mosquitto.conf.
+1793007128: Bridge support available.
+1793007128: Persistence support available.
+1793007128: TLS support available.
+1793007128: TLS-PSK support available.
+1793007128: Websockets support available.
+1793007128: Opening ipv4 listen socket on port 1883.
+1793007128: Opening ipv6 listen socket on port 1883.
+1793007128: Opening ipv4 listen socket on port 9001.
+1793007128: Opening ipv6 listen socket on port 9001.
+1793007128: mosquitto version 2.1.2 running
+1793007129: New connection from 172.19.0.1:45066 on port 1883.
+1793007129: New client connected from 172.19.0.1:45066 as mqtt-explorer-904183a8 (p4, c1, k60).
+1793007142: New connection from 172.19.0.3:47818 on port 1883.
+1793007142: New client connected from 172.19.0.3:47818 as noderedb92d97a57eb4eae4 (p4, c1, k60).
+1793007147: New connection from 172.19.0.1:50960 on port 1883.
+1793007147: New client connected from 172.19.0.1:50960 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793007390: Client noderedb92d97a57eb4eae4 [172.19.0.3:47818] disconnected.
+1793007392: New connection from 172.19.0.3:45142 on port 1883.
+1793007392: New connection from 172.19.0.3:45150 on port 1883.
+1793007392: New client connected from 172.19.0.3:45142 as noderedc8d4b3b7ee772ba5 (p4, c1, k60).
+1793007392: New client connected from 172.19.0.3:45150 as noderedda39d3b7cb0cdee9 (p4, c1, k60, u'admin').
+1793007852: Client mqtt-explorer-904183a8 [172.19.0.1:45066] disconnected.
+1793008412: Client ESP8266_Local_Node01 [172.19.0.1:50960] disconnected: connection closed by client.
+1793008546: New connection from 172.19.0.1:47172 on port 1883.
+1793008546: New client connected from 172.19.0.1:47172 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793008580: Client ESP8266_Local_Node01 [172.19.0.1:47172] disconnected: exceeded timeout.
+1793008928: Saving in-memory database to /mosquitto/data//mosquitto.db.
